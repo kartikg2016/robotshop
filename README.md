@@ -2,9 +2,9 @@
 GUI for managing a robot shop.
 
 Team:
-Kartik Gupta
-Pavanaj Biyani 
-Shweta Shikarkhane 
+Kartik Gupta,
+Pavanaj Biyani, 
+Shweta Shikarkhane, 
 Winston Starling
 
 To execute the program on MinGW the command used is :
