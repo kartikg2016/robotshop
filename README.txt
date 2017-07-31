@@ -1,0 +1,14 @@
+CSE 1325-003 Project
+
+Pavanaj Biyani - 1001236871
+
+Kartik Gupta - 1001228675
+
+Shweta Shikarkhane - 1001192846
+
+Winston Starling - 1001346251
+
+To execute the program on MinGW the command used is :
+fltk-config --use-images --compile GUI.cpp
+
+GUI.cpp is the main cpp file to run (\HW-6\GUI.cpp)
