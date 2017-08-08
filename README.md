@@ -7,7 +7,8 @@ Pavanaj Biyani,
 Shweta Shikarkhane, 
 Winston Starling
 
-To execute the program on MinGW the command used is :
-fltk-config --use-images --compile GUI.cpp
+You must install and configure the FLTK library for this program to run.
+To execute the program the command used is :
+g++ fltk-config --use-images --compile GUI.cpp
 
-GUI.cpp is the main cpp file to run (\HW-6\GUI.cpp)
+GUI.cpp is the main cpp file to run (\GUI.cpp)
